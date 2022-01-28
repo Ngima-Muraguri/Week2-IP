@@ -1,0 +1,8 @@
+.first{
+    background-image:url("images/Assets/#hero-cover.3.png") ;
+
+}
+.third{
+    display: flex;
+    flex-direction: row;
+}
