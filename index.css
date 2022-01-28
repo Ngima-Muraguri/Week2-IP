@@ -41,18 +41,26 @@ color: white;
     margin-left: 410px;
 }
 .read{
-    width: 30%;
+    width: 70;
     margin-right: 3%;
     height: 100px;
     padding: 20px;
     background-color: white;
+    block-size:fit-content;
 }
 .inner{
-    width: 30%;
+    width: 50%;
     height:100px ;
     padding: 20px;
     background-color: #23A6F0;
+    block-size:fit-content;
 }
-.second{
-    
+.other{
+   display: flex; 
+   flex-direction: row;
+   align-items: center;
+   margin-top: 40%;
+}
+.set{
+
 }
