@@ -5,10 +5,14 @@
     background-repeat: no-repeat;
 
 }
+.repeat{
+    height: 900px;
+    background-color:bisque;
+}
 .third{
     display: flex;
     align-items: center;
-    margin-left: 30%;
+    margin-left: 20%;
     margin-top: 350px;
 }
 .quote{
@@ -41,7 +45,7 @@ color: white;
     margin-left: 410px;
 }
 .read{
-    width: 70;
+    width: 200px;
     margin-right: 3%;
     height: 100px;
     padding: 20px;
@@ -49,7 +53,7 @@ color: white;
     block-size:fit-content;
 }
 .inner{
-    width: 50%;
+    width: 200px;
     height:100px ;
     padding: 20px;
     background-color: #23A6F0;
@@ -59,7 +63,8 @@ color: white;
    display: flex; 
    flex-direction: row;
    align-items: center;
-   margin-top: 40%;
+   margin-top: 5%;
+   margin-left: 20%;
 }
 .set{
 
