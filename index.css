@@ -60,7 +60,7 @@ color: white;
     margin-right: 3%;
     height: 100px;
     padding: 20px;
-    background-color: white;
+    background-color:white;
     block-size:fit-content;
 }
 .inner{
@@ -145,4 +145,16 @@ margin-right: 5%;
 .six{
     width: 80px;
     padding: 30px;
+}
+.subscribe{
+   background-color: violet;
+   background-image: linear gradient(to right, blue,rgb(170, 15, 149));
+}
+.sol{
+
+}
+.price{
+    margin-left:10%;
+    text-align: center;
+    margin-top: 12%;
 }
