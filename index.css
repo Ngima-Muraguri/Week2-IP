@@ -199,11 +199,15 @@ border-radius: 10px;
     width: 180px;
 }
 .world{
-
+background-color: #252b42;
+height: 600px;
 }
 .over{
-   margin-left: 10%;
+margin-left: 200px;
 }
 .pic{
     width: 250px;
+    float:right;
+    margin-right: 200px;
+    margin-top: 0%;
 }
