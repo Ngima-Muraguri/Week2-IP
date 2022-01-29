@@ -97,6 +97,7 @@ margin-right: 5%;
     margin-left: 10%;
     text-align: center;
     margin-top: 13%;
+
 }
 .people{
     display: flex;
@@ -196,4 +197,13 @@ border-radius: 10px;
     color: white;
     height: 50px;
     width: 180px;
+}
+.world{
+
+}
+.over{
+   margin-left: 10%;
+}
+.pic{
+    width: 250px;
 }
