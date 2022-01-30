@@ -148,16 +148,25 @@ margin-right: 5%;
     padding: 30px;
 }
 .subscribe{
-   background-color: violet;
-   background-image: linear gradient(to right, blue,rgb(170, 15, 149))
-   height:200px;
-
+    background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 60%);
+   width: 900px;
+   height:150px;
+   align-items: center;
+margin-left: 15%;
 }
 .small{
     display: flex;
+    height: 50px;
+    margin-left: 50%;
+    margin-top: -8%;
 }
-.sol{
-
+.late{
+    padding-top: 40px;
+    margin-left: 5%;
+    color: #fff;
+}
+.small button{
+    background-color:#23A6F0;
 }
 .price{
     margin-left:10%;
