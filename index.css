@@ -222,14 +222,17 @@ height: 600px;
 }
 .over{
 margin-left: 200px;
-margin: top 30px;;
+color:#fff;
+padding-top: 5%;
 }
+
 .pic{
-    width: 250px;
+    width: 300px;
     float:right;
-    margin-right: 200px;
-    margin-top: 0%;
-    height: 200px;
+    margin-left: 60%;
+    margin-top: -10%;
+    position: absolute;
+    height: 150px;
 }
 .mixed{
     height: 500px;
@@ -240,10 +243,18 @@ margin: top 30px;;
 .black{
    display: flex; 
    margin-top: 10%;
+   margin-left: 5%;
 }
 .form{
     padding: 50px;
     background-color: #fff;
     width: 300px;
     height: 400px;
+}
+.app{
+    width: 310px;
+    height: 40px;
+    background-color: #23A6F0;
+    margin-top: 8%;
+    color: #fff;
 }
