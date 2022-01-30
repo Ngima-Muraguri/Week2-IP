@@ -42,11 +42,11 @@
     margin-top: 3%;
     background: transparent;
 }
-ul li a{
+.list ul li a{
     text-decoration:none;
     margin-top: 60px;
 }
-ul li{
+.list ul li{
 display:inline;
 padding: 30px 15px;
 color: white;
@@ -149,7 +149,12 @@ margin-right: 5%;
 }
 .subscribe{
    background-color: violet;
-   background-image: linear gradient(to right, blue,rgb(170, 15, 149));
+   background-image: linear gradient(to right, blue,rgb(170, 15, 149))
+   height:200px;
+
+}
+.small{
+    display: flex;
 }
 .sol{
 
@@ -182,6 +187,7 @@ border-radius: 10px;
     margin: 3px;
     text-align: center;
     border-radius: 10px;
+    color: #fff;
 }
 .premium{
     border:1px solid #23A6F0;
@@ -190,6 +196,9 @@ border-radius: 10px;
     margin: 12px;
     text-align: center;
     border-radius: 10px;
+}
+li {
+    text-decoration: none;
 }
 .blue{
     background-color: #23A6F0;
@@ -210,4 +219,8 @@ margin-left: 200px;
     float:right;
     margin-right: 200px;
     margin-top: 0%;
+}
+.mixed{
+    height: 700px;
+    text-align: center;
 }
